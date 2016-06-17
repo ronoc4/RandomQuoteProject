@@ -1,0 +1,34 @@
+.container-fluid {
+    width: 600px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #18A729;
+    border-color: #2e6da4;
+
+}
+
+body {
+    background-color: #D4D4D4;
+}
+
+#cliffBackground {
+    padding-top: 30px;
+    min-height: 200px;
+    background-image: url("http://www.cliffsofmoher.ie/wp-content/uploads/2015/01/backgroundhome.jpg");
+    background-size: 100%;
+    background-position: center top;
+}
+
+.quotes {
+    height: auto;
+    padding: 20px;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+}
